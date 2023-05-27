@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.item{
+  display: flex;
+  border: 2px solid lightblue;
+  margin: 1rem;
+}
+.span{
+  margin-left: 2rem;
+  color: darkblue;
+}

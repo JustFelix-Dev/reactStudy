@@ -1,0 +1,34 @@
+{
+  "details": [
+    {
+      "name": "Felix Owolabi",
+      "country": "Ontario",
+      "bio": "Lorem ipsum..",
+      "id": 1
+    },
+    {
+      "name": "Raymond Seyi",
+      "country": "Luxembourg",
+      "bio": "Lorem ipsum..",
+      "id": 2
+    },
+    {
+      "name": "Jennifer Ita",
+      "country": "Dublin",
+      "bio": "Lorem ipsum..",
+      "id": 3
+    },
+    {
+      "name": "Ishola Haruna",
+      "country": "Nigeria",
+      "bio": "Lorem ipsum..",
+      "id": 4
+    },
+    {
+      "name": "Kevin Powell",
+      "bio": "Lorem Practice",
+      "country": "Felix",
+      "id": 6
+    }
+  ]
+}
